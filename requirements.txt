@@ -4,4 +4,4 @@ pandas==0.25.3
 numpy==1.17.4
 imutils==0.5.3
 scikit_learn==0.22.1
-tensorflow==1.15
+tensorflow==2.9.3
